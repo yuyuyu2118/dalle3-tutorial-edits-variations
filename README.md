@@ -37,4 +37,3 @@ npm install express openai cors
 ```bash
 npm start
 ```
-# dalle3-tutorial-edits-variations
